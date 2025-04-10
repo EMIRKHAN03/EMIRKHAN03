@@ -7,7 +7,8 @@ Currently, I focus on building solid backend applications using **Java**, **Spri
 - Java Core, OOP, Collections, Streams  
 - Spring Framework (Boot, MVC, Data)  
 - SQL, PostgreSQL, JPA/Hibernate  
-- Git, REST APIs, Maven  
+- Git, REST APIs, Maven
+- Redis  
 - Basic knowledge of testing (JUnit)
 
 ## 📬 Contact Me
