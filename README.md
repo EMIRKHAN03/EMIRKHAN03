@@ -1,16 +1,16 @@
-## Hi there 👋
+# 👋 Hi there, I'm Emir!
 
-<!--
-**EMIRKHAN03/EMIRKHAN03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a junior Java backend developer with a passion for clean code and real-world problem solving.  
+Currently, I focus on building solid backend applications using **Java**, **Spring Boot**, and **SQL databases**.
 
-Here are some ideas to get you started:
+## 💡 Key Skills
+- Java Core, OOP, Collections, Streams  
+- Spring Framework (Boot, MVC, Data)  
+- SQL, PostgreSQL, JPA/Hibernate  
+- Git, REST APIs, Maven  
+- Basic knowledge of testing (JUnit)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📬 Contact Me
+- Telegram: [@EMIRKHAN03](https://t.me/EMIRKHAN03)
+
+I'm open to collaboration, learning, and new opportunities!
